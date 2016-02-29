@@ -1,0 +1,28 @@
+name: MoMustafaMD
+favicon: null
+layout_spectrum: 0.4788934059906751
+typography_spectrum: 0.6653659252915531
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.24761542701162398
+  lightness: 0.6601850239094347
+  saturation: 0.38302379730157554
+  rhythmicContrast: 0.9415997776668519
+purpose: []
