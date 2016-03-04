@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MoMustafaMD]]></title>
         <description><![CDATA[MoMustafaMD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://momustafamd.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 20:00:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 08:08:07 GMT</lastBuildDate>
+        <atom:link href="http://momustafamd.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea01ba50-0331-478c-885a-c0f95fcaa7cf.jpg">]]></description>
+            <link>http://momustafamd.com/d29d631b-0b48-46ee-85d5-64473191095f/index.html</link>
+            <guid isPermaLink="false">d29d631b-0b48-46ee-85d5-64473191095f</guid>
+            <pubDate>Fri, 04 Mar 2016 08:07:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Raising Doctors</p>]]></description>
-            <link>undefined7b780118-6dc2-4f76-b954-617dce0a171a/index.html</link>
+            <link>http://momustafamd.com/7b780118-6dc2-4f76-b954-617dce0a171a/index.html</link>
             <guid isPermaLink="false">7b780118-6dc2-4f76-b954-617dce0a171a</guid>
             <pubDate>Mon, 29 Feb 2016 20:00:02 GMT</pubDate>
         </item>
